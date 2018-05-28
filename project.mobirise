@@ -822,7 +822,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/p1070683-1-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -833,7 +833,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/p1070706-1-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
