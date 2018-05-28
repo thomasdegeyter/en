@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "images.html",
     "versionFirst": "3.6.4",
     "versionPublish": "4.5.2",
     "name": "thomasdegeyter.github.io/en",
@@ -752,8 +752,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-7131.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7131-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7132.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7132-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -763,8 +763,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p1070708.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1070708-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1070708-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1070708-1-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -774,8 +774,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-7138.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7138-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7139.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7139-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -785,11 +785,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-7142.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7142-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7143.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7143-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -965,7 +965,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-7168-800x1200.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
