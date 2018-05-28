@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "images.html",
+    "currentPage": "index.html",
     "versionFirst": "3.6.4",
     "versionPublish": "4.5.2",
     "name": "thomasdegeyter.github.io/en",
@@ -38,7 +38,8 @@
     "cookiesAlert": "",
     "sitemapSwitcher": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "on"
+    "robotsSwitcher": "on",
+    "siteFonts": []
   },
   "pages": {
     "about.html": {
