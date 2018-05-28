@@ -29,7 +29,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 38,
+    "uniqCompNum": 41,
     "favicon": "",
     "noImageResize": "true",
     "siteUrl": "http://thomasdegeyter.github.io/en",
@@ -844,6 +844,217 @@
           "allItem": "All",
           "_name": "gallery3",
           "_anchor": "gallery3-10"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": true,
+            "bgColor": "#131b30",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1070647.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1070647-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1070657-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1070657-1-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1070668-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1070668-1-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7158.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7158-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1070705.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1070705-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1070703-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1070703-1-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7157.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7157-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-12"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": true,
+            "bgColor": "#131b30",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7159.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7159-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1070674.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1070674-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1070675-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1070675-1-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1070677-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1070677-1-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1070701-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1070701-1-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1070696-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1070696-2-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1070670-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1070670-1-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7169.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7169-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-14"
         },
         {
           "_inherit": "social-buttons1",
